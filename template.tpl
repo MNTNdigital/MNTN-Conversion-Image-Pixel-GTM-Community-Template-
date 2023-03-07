@@ -92,8 +92,7 @@ const url = "https://px.mountain.com/sti?conv=1" +
             "&shoamt=" + conversionOrderAmount + 
             "&cb=" + encodeUriComponent(cb)  + 
             "&plh=" + encodeUriComponent(plh()) + 
-            "&tdr=" + encodeUriComponent(tdr())
-            );
+            "&tdr=" + encodeUriComponent(tdr());
 
 
 // require success and failure calls
