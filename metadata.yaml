@@ -15,5 +15,10 @@
 homepage: "https://www.mountain.com"
 documentation: "https://mountain.com/"
 versions:
+# Latest Version
+  - sha: 766cb624ba8dd0a22c7b570beb248586de41d844
+    changeNotes: fixed bug for Encoded plh & tdr fields
+    
+# Initial Version
   - sha: 02134a49f1362dfba700674676fc6f75f2a9ed3a
     changeNotes: Initial Version
